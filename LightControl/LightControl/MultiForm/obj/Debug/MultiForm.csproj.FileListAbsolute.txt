@@ -1,0 +1,10 @@
+C:\Users\hlw\source\repos\LightControl\MultiForm\bin\Debug\MultiForm.exe.config
+C:\Users\hlw\source\repos\LightControl\MultiForm\bin\Debug\MultiForm.exe
+C:\Users\hlw\source\repos\LightControl\MultiForm\bin\Debug\MultiForm.pdb
+C:\Users\hlw\source\repos\LightControl\MultiForm\obj\Debug\MultiForm.csprojResolveAssemblyReference.cache
+C:\Users\hlw\source\repos\LightControl\MultiForm\obj\Debug\MultiForm.MultiClient.resources
+C:\Users\hlw\source\repos\LightControl\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+C:\Users\hlw\source\repos\LightControl\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.Cache
+C:\Users\hlw\source\repos\LightControl\MultiForm\obj\Debug\MultiForm.csproj.CoreCompileInputs.cache
+C:\Users\hlw\source\repos\LightControl\MultiForm\obj\Debug\MultiForm.exe
+C:\Users\hlw\source\repos\LightControl\MultiForm\obj\Debug\MultiForm.pdb

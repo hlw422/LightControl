@@ -1,0 +1,12 @@
+c:\users\hlw\source\repos\LightControl\LightControl\bin\Debug\LightControl.exe.config
+c:\users\hlw\source\repos\LightControl\LightControl\bin\Debug\LightControl.exe
+c:\users\hlw\source\repos\LightControl\LightControl\bin\Debug\LightControl.pdb
+c:\users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.csprojResolveAssemblyReference.cache
+c:\users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.LC_SERVER.resources
+c:\users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.Properties.Resources.resources
+c:\users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.csproj.GenerateResource.Cache
+c:\users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.csproj.CoreCompileInputs.cache
+c:\users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.exe
+c:\users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.pdb
+c:\users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.LC_MESSAGE.resources
+C:\Users\hlw\source\repos\LightControl\LightControl\obj\Debug\LightControl.Form1.resources
